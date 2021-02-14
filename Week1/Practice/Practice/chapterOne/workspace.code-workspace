@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "modern-javascript-lesson-5",
+			"path": "../../../../../Downloads/modern-javascript-lesson-5"
+		},
+		{
+			"name": "WDD330",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WDD330"
+	}
+}
