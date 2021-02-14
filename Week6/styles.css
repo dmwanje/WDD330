@@ -1,0 +1,38 @@
+body{
+  background: #008B8B;
+}
+.container{
+  max-width: 400px;
+}
+input[type=text],
+input[type=text]:focus{
+  color: #fff;
+  border: none;
+  background: rgba(0,0,0,0.2);
+  max-width: 400px;
+}
+.todos li{
+  background: #800080;
+}
+.delete{
+  cursor: pointer;
+}
+
+.filtered{
+  display: none !important;
+}
+
+p,
+label {
+  font: 15px 'Exo 2', sans-serif;
+}
+ 
+input {
+  margin: 6px;
+}
+ 
+button {
+  margin-top: 10px;
+  padding: 2 2;
+  font: 15px 'Exo 2', sans-serif;
+}
